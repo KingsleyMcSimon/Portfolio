@@ -30,7 +30,7 @@ $(document).ready(function () {
       0: {
         items: 1,
       },
-      544: {
+      560: {
         items: 2,
       },
     },
@@ -54,4 +54,5 @@ $(document).ready(function () {
   }
 
   navbarFixed();
+
 });
